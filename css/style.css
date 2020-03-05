@@ -1,0 +1,57 @@
+
+
+body {
+    background: rgb(189, 184, 184);
+margin-top: 30px;
+margin-left: 60px;
+margin-right: 60px;
+
+}
+
+#navbar navbar-light{
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+header {
+margin-top: 30px;
+
+}
+
+h2 {
+    font-size: 25px;
+    font-family:fantasy;
+    }
+h1{
+    font-size: 25px;
+    font-family: fantasy;
+}
+p {
+    text-align: justify;
+    font-family: fantasy;
+    font-size: 18px;
+}
+a {
+text-align: justify;
+font-family: "Open Sans", sans-serif ;
+color:black;
+}
+
+ img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+div{
+    font-family: "Open Sans", sans-serif ; 
+}
+
+.icons{
+    margin-bottom: 10px;
+ 
+}
+
+footer{
+    margin-bottom: 30px;
+}
